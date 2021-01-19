@@ -9,7 +9,7 @@ If you want to have fun with programming... Never program! ©LoLToHell <br>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=loltohell&style=flat-square" alt="lth" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=loltohell&bg_color=15,0095ff,00b018&title_color=fff&text_color=fff" alt="stats"/><br></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=loltohell&bg_color=45,0095ff,00b018&title_color=fff&text_color=fff" alt="stats"/><br></p>
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
