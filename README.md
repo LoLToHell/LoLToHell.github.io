@@ -8,7 +8,6 @@ A developer 🖥️ from Russia.<br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=loltohell&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="stats"/><br></p>
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
