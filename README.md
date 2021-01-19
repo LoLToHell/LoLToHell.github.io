@@ -2,7 +2,7 @@
 <h3> Hello there, i'm LoLToHell. </h3>
 A developer 🖥️ from Russia.<br>
 - 🧑‍💻 Learning Java/Kotlin. <br>
-- 📫 How to reach me: You may follow me on <a href="https://instagram.com/gaganmalvi">Instagram</a> or <a href="https://t.me/loltohell">Telegram</a> or via email at <a href="grinvaald@gmail.com">grinvaald@gmail.com</a><br>
+- 📫 How to reach me: You may follow me on <a href="https://instagram.com/grinvald.i">Instagram</a> or <a href="https://t.me/loltohell">Telegram</a> or via email at <a href="grinvaald@gmail.com">grinvaald@gmail.com</a><br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gaganmalvi&style=flat-square" alt="gmlvi" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=loltohell&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="stats"/><br></p>
