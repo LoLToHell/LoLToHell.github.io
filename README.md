@@ -1,8 +1,12 @@
 <p align="center"> <img src="loltohell.jpg" alt="me!"/></p>
 <h3> Hello there, i'm LoLToHell (Real Name: Ivan Grinvald). </h3>
-Student, a Java and Kotlin Developer. Android and Linux kernel dev; in my free time I listen to music or read books .<br>
+Student, a Java and Kotlin Developer. Android and Linux kernel dev, Android firmware and application tester; in my free time I listen to music or read books. <br>
 - 🧑‍💻 Learning Java/Kotlin/C++. <br>
 - 📫 How to reach me: You may follow me on <a href="https://instagram.com/grinvald.i">Instagram</a> or <a href="https://t.me/loltohell">Telegram</a> or via email at <a href="grinvaald@gmail.com">grinvaald@gmail.com</a><br>
+
+If you want to have fun with programming... Never program! ©LoLToHell <br>
+
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=loltohell&style=flat-square" alt="lth" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=loltohell&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="stats"/><br></p>
