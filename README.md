@@ -35,6 +35,4 @@ If you want to have fun with programming... Never program! ©LoLToHell <br>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/quadparrot.gif" width="25" height="25"/>
-
-<p alight="center"><font size="1" color="#ff676767"> Сайт создан на языке HTML5 </font> </p><br>
 </div>
