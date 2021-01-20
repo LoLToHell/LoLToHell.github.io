@@ -7,7 +7,16 @@ My real Name: Ivan Grinvald. </h3>
 Student, Java and Kotlin Developer. Android and Linux-kernel dev, Android firmware and application tester; in my free time I listen to music or read books. <br>
 - 🧑‍💻 Learning Java/Kotlin/C++. <br>
 - 📫 How to reach me: You may follow me on <a href="https://instagram.com/grinvald.i">Instagram</a> or <a href="https://t.me/loltohell">Telegram</a> or via email at <a href="grinvaald@gmail.com">grinvaald@gmail.com</a><br>
-
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>t.me/loltohell</title>
+ </head>
+ <body> 
+   <p><a href="">sample.html<img src="social-logo/tgram.png" width="25" 
+   height="25" alt="Telegram"></a></p>
+ </body> 
+</html>
 If you want to have fun with programming... Never program! ©LoLToHell <br>
 <p align="center"> <img src="end.jpg" alt="end" /> </p>
 
