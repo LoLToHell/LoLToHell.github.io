@@ -1,6 +1,7 @@
 <body background="assets/images/background.jpg">
+<h2><p align="center"> #StayHome </h2><img src="https://cultofthepartyparrot.com/parrots/hd/stayhomeparrotwindow.gif" height="25" weight="25"/>
 <p align="center"> <img src="assets/images/loltohell.png" alt="me!"/></p>
-<p alight="center"> <img src="assets/images/aboutme.png" alt="aboutme"/></p>
+<p align="center"> <img src="assets/images/aboutme.png" alt="aboutme"/></p>
 <h3> Hello there, i'm LoLToHell <img src="https://cultofthepartyparrot.com/flags/hd/russiaparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/guests/cursedparrot.gif" width="25" height="25"/></h3> 
 <h4> My real Name: Ivan Grinvald.</h4>
 <h5> About me: </h5>
@@ -47,5 +48,10 @@ If you want to have fun with programming... Never program! ©LoLToHell <br>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/quadparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/sithparrot.gif" width="25" height="25" />
+    <img src="https://cultofthepartyparrot.com/parrots/hd/evilparrot.gif" width="25" height="25" />
+    <img src="https://cultofthepartyparrot.com/parrots/hd/norwegianblueparrot.gif" width="25" height="25" />
+    <img src="https://cultofthepartyparrot.com/parrots/hd/daftpunkparrot.gif" width="25" height="25" />
+    <img src="https://cultofthepartyparrot.com/guests/hd/dogeparrot.gif" width="25" height="25" />
 </div>
 </body>
