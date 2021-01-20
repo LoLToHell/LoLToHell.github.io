@@ -1,5 +1,5 @@
 <body background="assets/background.jpg">
-<p align="center"> <img src="loltohell.jpg&" style="flat-square" alt="me!"/></p>
+<p align="center"> <img src="loltohell.jpg&" alt="me!"/></p>
 <p alight="center"> <img src="assets/aboutme.jpg" alt="aboutme"/></p>
 <h3> Hello there, i'm LoLToHell <img src="https://cultofthepartyparrot.com/flags/hd/russiaparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/guests/cursedparrot.gif" width="25" height="25"/> 
 My real Name: Ivan Grinvald. </h3>
