@@ -17,7 +17,7 @@ Student, Java and Kotlin programmer. AOSP and Linux-kernel dev, Android firmware
 
 If you want to have fun with programming... Never program! ©LoLToHell <br>
 <p align="center"> <img src="assets/images/end.png" alt="end" /> </p>
-<a href="https://loltohell.github.io/ru-ru"><img src="assets/images/ru.png" width="25" height="25" alt="russian"></a><br>
+<a href="https://loltohell.github.io/ru-ru"><img src="assets/images/ru.png" alt="russian"></a><br>
 
 
 
