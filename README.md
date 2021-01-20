@@ -13,7 +13,7 @@ Student, Java and Kotlin Developer. Android and Linux-kernel dev, Android firmwa
   <title>t.me/loltohell</title>
  </head>
  <body> 
-   <p><a href="">sample.html<img src="social-logo/tgram.png" width="25" 
+   <p><a href="">t.me/loltohell<img src="/social-logo/tgram.png" width="25" 
    height="25" alt="Telegram"></a></p>
  </body> 
 </html>
