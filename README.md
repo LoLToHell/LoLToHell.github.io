@@ -4,7 +4,7 @@
 <p align="center"> <img src="assets/images/aboutme.png" alt="aboutme"/></p>
 <h3> Hello there, i'm LoLToHell <img src="https://cultofthepartyparrot.com/flags/hd/russiaparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/guests/cursedparrot.gif" width="25" height="25"/></h3> 
 <h5> About me: </h5>
-Student, Java and Kotlin Developer. Android and Linux-kernel dev, Android firmware and application tester; in my free time I listen to music or read books. <br>
+Student, Java and Kotlin programmer. AOSP and Linux-kernel dev, Android firmware and application tester; in my free time I listen to music or read books. <br>
 - 🧑‍💻 Learning Java/Kotlin/C++. <br>
 <h5> You can subscribe to me or write to me in one of the social networks: </h5>
 <a href="https://t.me/loltohell"><img src="assets/social/tgram.png" width="25" height="25" alt="tgram"></a>
