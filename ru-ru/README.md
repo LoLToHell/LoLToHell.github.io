@@ -1,7 +1,7 @@
 <body background="assets/images/background.jpg">
 
-<p align="center"> <img src="https://github.com/LoLToHell/LoLToHell.github.io/blob/main/assets/images/loltohell.png" alt="me!"/></p>
-<p align="center"> <img src="https://github.com/LoLToHell/LoLToHell.github.io/blob/main/assets/images/aboutme.png" alt="aboutme"/></p>
+<p align="center"> <img src="assets/images/loltohell.png" alt="me!"/></p>
+<p align="center"> <img src="assets/images/aboutme.png" alt="aboutme"/></p>
 <h3> Привет, мир. Я LoLToHell <img src="https://cultofthepartyparrot.com/flags/hd/russiaparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/guests/cursedparrot.gif" width="25" height="25"/></h3> 
 <h5> About me: </h5>
 Студент, Java and Kotlin программист. Разработчик AOSP прошивок на базе ОС Андроид и ядер Linux, тестировщик ОС Андроид и приложений; в свободное время слушаю музыку или читаю книги, хотя обычно просто ставлю себя на зарядку за занавеской после тяжёлого дня и жду следующего <br>
@@ -16,7 +16,7 @@
 
 
 Если вы хотите получить удовольствие от программирования... Никогда не программируйте! ©LoLToHell <br>
-<p align="center"> <img src="https://github.com/LoLToHell/LoLToHell.github.io/blob/main/assets/images/end.png" alt="end" /> </p>
+<p align="center"> <img src="assets/images/end.png" alt="end" /> </p>
 
 
 
