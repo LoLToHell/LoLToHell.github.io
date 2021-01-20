@@ -6,7 +6,7 @@
 <h5> About me: </h5>
 Student, Java and Kotlin Developer. Android and Linux-kernel dev, Android firmware and application tester; in my free time I listen to music or read books. <br>
 - 🧑‍💻 Learning Java/Kotlin/C++. <br>
-<h5> You can write to me on one of the social networks: </h5>
+<h5> You can subscribe to me or write to me in one of the social networks: </h5>
 <a href="https://t.me/loltohell"><img src="assets/social/tgram.png" width="25" height="25" alt="tgram"></a>
 <a href="https://instagram.com/grinvald.i"><img src="assets/social/insta-logo.svg.webp" width="25" height="25" alt="instagram"></a>
 <a href="mailto:grinvaald@gmail.com" target="_blank" rel="noopener noreferrer"><img src="assets/social/gmail-logo.png" width="25" height="25" alt="Gmail"></a>
