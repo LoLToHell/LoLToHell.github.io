@@ -11,6 +11,8 @@ Student, Java and Kotlin Developer. Android and Linux-kernel dev, Android firmwa
 <a href="https://instagram.com/grinvald.i"><img src="assets/social/insta-logo.svg.webp" width="25" height="25" alt="instagram"></a>
 <a href="mailto:grinvaald@gmail.com" target="_blank" rel="noopener noreferrer"><img src="assets/social/gmail-logo.png" width="25" height="25" alt="Gmail"></a>
 
+
+
 If you want to have fun with programming... Never program! ©LoLToHell <br>
 <p align="center"> <img src="end.jpg" alt="end" /> </p>
 
