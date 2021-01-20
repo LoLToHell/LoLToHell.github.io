@@ -1,5 +1,6 @@
 <body background="assets/images/background.jpg">
-<h3><p align="center"> #StayHome</h3><img src="https://cultofthepartyparrot.com/parrots/hd/stayhomeparrotwindow.gif" height="25" weight="25"/>
+
+<h3><p align="center"> #StayHome<img src="https://cultofthepartyparrot.com/parrots/hd/stayhomeparrotwindow.gif" height="25" weight="25"/></h3>
 <p align="center"> <img src="assets/images/loltohell.png" alt="me!"/></p>
 <p align="center"> <img src="assets/images/aboutme.png" alt="aboutme"/></p>
 <h3> Hello there, i'm LoLToHell <img src="https://cultofthepartyparrot.com/flags/hd/russiaparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/guests/cursedparrot.gif" width="25" height="25"/></h3> 
