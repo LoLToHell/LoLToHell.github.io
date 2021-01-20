@@ -1,9 +1,9 @@
 <body background="assets/background.jpg">
 <p align="center"> <img src="loltohell.jpg" alt="me!"/></p>
 <p alight="center"> <img src="assets/aboutme.jpg" alt="aboutme"/></p>
-<h3> Hello there, i'm LoLToHell <img src="https://cultofthepartyparrot.com/flags/hd/russiaparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/guests/cursedparrot.gif" width="25" height="25"/> 
-My real Name: Ivan Grinvald. </h3>
-<h4> About me: </h4>
+<h3> Hello there, i'm LoLToHell <img src="https://cultofthepartyparrot.com/flags/hd/russiaparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/guests/cursedparrot.gif" width="25" height="25"/></h3> 
+<h4> My real Name: Ivan Grinvald.</h4>
+<h5> About me: </h5>
 Student, Java and Kotlin Developer. Android and Linux-kernel dev, Android firmware and application tester; in my free time I listen to music or read books. <br>
 - 🧑‍💻 Learning Java/Kotlin/C++. <br>
 <h5> You can write to me on one of the social networks: </h5>
