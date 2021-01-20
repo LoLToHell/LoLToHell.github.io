@@ -8,6 +8,7 @@ Student, Java and Kotlin Developer. Android and Linux-kernel dev, Android firmwa
 - 🧑‍💻 Learning Java/Kotlin/C++. <br>
 - 📫 How to reach me: You may follow me on <a href="https://instagram.com/grinvald.i">Instagram</a> or <a href="https://t.me/loltohell">Telegram</a> or via email at <a href="grinvaald@gmail.com">grinvaald@gmail.com</a><br>
 <a href="https://t.me/loltohell"><img src="assets/social/tgram.png" width="25" height="25" alt="tgram"></a>
+<a href="https://instagram.com/grinvald.i"><img src="assets/social/insta-logo.svg.webp" width="25" height="25" alt="instagram"></a>
 
 If you want to have fun with programming... Never program! ©LoLToHell <br>
 <p align="center"> <img src="end.jpg" alt="end" /> </p>
