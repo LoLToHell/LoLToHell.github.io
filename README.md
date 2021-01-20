@@ -1,14 +1,4 @@
 <body background="assets/images/background.jpg">
-<div class="widget">
-  <h3 class="widget-title">Категории</h3>
-  <ul class="widget-list">
-    <li><a href="">Дизайн</a></li>
-    <li><a href="">Фотошоп</a></li>
-    <li><a href="">Типографика</a></li>
-    <li><a href="">Музыка</a></li>
-    <li><a href="">Видео</a></li>
-  </ul>
-</div>
 <p align="center"> <img src="assets/images/loltohell.jpg" alt="me!"/></p>
 <p alight="center"> <img src="assets/images/aboutme.jpg" alt="aboutme"/></p>
 <h3> Hello there, i'm LoLToHell <img src="https://cultofthepartyparrot.com/flags/hd/russiaparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/guests/cursedparrot.gif" width="25" height="25"/></h3> 
