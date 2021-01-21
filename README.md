@@ -1,17 +1,9 @@
 <html>
-<body>
+  <body background="assets/images/background.jpg">
 
-
-        <canvas id="canvas" style="background: black;">Your
-          browser does not support the HTML5 canvas tag.</canvas>
-
-<script type="text/javascript" src="matrix.js"></script>
-
-<body background="assets/images/background.jpg">
-
-<p align="center"> <img src="assets/images/loltohell.png" alt="me!"/></p>
-<p align="center"> <img src="assets/images/aboutme.png" alt="aboutme"/></p>
-<h3> Hello there, i'm LoLToHell <img src="https://cultofthepartyparrot.com/flags/hd/russiaparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/guests/cursedparrot.gif" width="25" height="25"/></h3> 
+  <p align="center"> <img src="assets/images/loltohell.png" alt="me!"/></p>
+  <p align="center"> <img src="assets/images/aboutme.png" alt="aboutme"/></p>
+ <h3> Hello there, i'm LoLToHell <img src="https://cultofthepartyparrot.com/flags/hd/russiaparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/guests/cursedparrot.gif" width="25" height="25"/></h3> 
 <h5> About me: </h5>
 Student, Java and Kotlin programmer. AOSP and Linux-kernel dev, Android firmware and application tester; in my free time I listen to music or read books. <br>
 - 🧑‍💻 Learning Java/Kotlin/C++. <br>
@@ -63,6 +55,5 @@ If you want to have fun with programming... Never program! ©LoLToHell <br>
     <img src="https://cultofthepartyparrot.com/parrots/hd/daftpunkparrot.gif" width="25" height="25" />
     <img src="https://cultofthepartyparrot.com/guests/hd/dogeparrot.gif" width="25" height="25" />
  </div>
-  </body>
    </body>
 </html>
