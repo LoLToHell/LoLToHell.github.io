@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 
@@ -8,7 +7,6 @@
 
 <script type="text/javascript" src="matrix.js"></script>
 
-</body>
 <body background="assets/images/background.jpg">
 
 <p align="center"> <img src="assets/images/loltohell.png" alt="me!"/></p>
@@ -64,6 +62,7 @@ If you want to have fun with programming... Never program! ©LoLToHell <br>
     <img src="https://cultofthepartyparrot.com/parrots/hd/norwegianblueparrot.gif" width="25" height="25" />
     <img src="https://cultofthepartyparrot.com/parrots/hd/daftpunkparrot.gif" width="25" height="25" />
     <img src="https://cultofthepartyparrot.com/guests/hd/dogeparrot.gif" width="25" height="25" />
-</div>
-</body>
+ </div>
+  </body>
+   </body>
 </html>
