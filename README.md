@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+        <canvas id="canvas" style="background: black;">Your
+          browser does not support the HTML5 canvas tag.</canvas>
+
+<script type="text/javascript" src="matrix.js"></script>
+
+</body>
 <body background="assets/images/background.jpg">
 
 <p align="center"> <img src="assets/images/loltohell.png" alt="me!"/></p>
@@ -55,3 +66,4 @@ If you want to have fun with programming... Never program! ©LoLToHell <br>
     <img src="https://cultofthepartyparrot.com/guests/hd/dogeparrot.gif" width="25" height="25" />
 </div>
 </body>
+</html>
