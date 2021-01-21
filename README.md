@@ -19,12 +19,6 @@ Student, Java and Kotlin programmer. AOSP and Linux-kernel dev, Android firmware
 If you want to have fun with programming... Never program! ©LoLToHell <br>
 <p align="center"> <img src="assets/images/end.png" alt="end" /> </p>
 <a href="https://loltohell.github.io/ru"><img src="assets/images/ru.png" alt="russian"></a><br>
-<div class="demo">
-    <input type="checkbox" id="hd-1" class="hide"/>
-    <label for="hd-1" >tested function</label>
-    <div>
-        Fuck
-         </div>
 
 
 
