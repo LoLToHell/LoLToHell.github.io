@@ -1,15 +1,4 @@
 <body background="assets/images/background.jpg">
-<html>
-<body>
-
-
-        <canvas id="canvas" style="background: black;">Your
-          browser does not support the HTML5 canvas tag.</canvas>
-
-<script type="text/javascript" src="matrix.js"></script>
-
-</body>
-</html>
 
 <p align="center"> <img src="assets/images/loltohell.png" alt="me!"/></p>
 <p align="center"> <img src="assets/images/aboutme.png" alt="aboutme"/></p>
