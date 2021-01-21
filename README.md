@@ -1,4 +1,5 @@
 <body background="assets/images/background.jpg">
+<html>
 <body>
 
 
@@ -8,6 +9,7 @@
 <script type="text/javascript" src="matrix.js"></script>
 
 </body>
+</html>
 
 <p align="center"> <img src="assets/images/loltohell.png" alt="me!"/></p>
 <p align="center"> <img src="assets/images/aboutme.png" alt="aboutme"/></p>
