@@ -16,7 +16,8 @@ Student, Java and Kotlin programmer. AOSP and Linux-kernel dev, Android firmware
 
 
 
-If you want to have fun with programming... Never program! ©LoLToHell <br>
+If you want to have fun with programming... Never program! ©Me <br>
+«C++» just a disgusting programming language, these warnings, errors ... But no, it's just me a bastard who, as usual, forgot to put a ";" ©Me <br>
 <p align="center"> <img src="assets/images/end.png" alt="end" /> </p>
 <a href="https://loltohell.github.io/ru"><img src="assets/images/ru.png" alt="russian"></a><br>
 
