@@ -1,13 +1,13 @@
-<html>
-  <body>
+<!DOCTYPE html>
+<html lang="en">
+<body>
 <div class="svg-loader">
     <svg class="svg-container" height="100" width="100" viewBox="0 0 100 100">
         <circle class="loader-svg bg" cx="50" cy="50" r="45"></circle>
         <circle class="loader-svg animate" cx="50" cy="50" r="45"></circle>
     </svg>
 </div>
-</body>
-<body background="assets/images/background.jpg">
+   <body background="assets/images/background.jpg">
   <p align="center"> <img src="assets/images/loltohell.png" alt="me!"/></p>
   <p align="center"> <img src="assets/images/aboutme.png" alt="aboutme"/></p>
  <h3> Hello there, i'm LoLToHell <img src="https://cultofthepartyparrot.com/flags/hd/russiaparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/guests/cursedparrot.gif" width="25" height="25"/></h3> 
@@ -63,5 +63,6 @@ If you want to have fun with programming... Never program! ©Me <br>
     <img src="https://cultofthepartyparrot.com/parrots/hd/daftpunkparrot.gif" width="25" height="25" />
     <img src="https://cultofthepartyparrot.com/guests/hd/dogeparrot.gif" width="25" height="25" />
  </div>
+</body>
    </body>
 </html>
