@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
    <body background="assets/images/background.jpg">
   <p align="center"> <img src="assets/images/loltohell.png" alt="me!"/></p>
