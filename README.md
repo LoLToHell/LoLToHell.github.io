@@ -1,5 +1,11 @@
 <html>
   <body>
+<div class="svg-loader">
+    <svg class="svg-container" height="100" width="100" viewBox="0 0 100 100">
+        <circle class="loader-svg bg" cx="50" cy="50" r="45"></circle>
+        <circle class="loader-svg animate" cx="50" cy="50" r="45"></circle>
+    </svg>
+</div>
 </body>
 <body background="assets/images/background.jpg">
   <p align="center"> <img src="assets/images/loltohell.png" alt="me!"/></p>
