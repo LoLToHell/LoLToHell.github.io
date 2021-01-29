@@ -48,5 +48,14 @@
            <circle class="loader-svg animate" cx="50" cy="50" r="45"></circle>
        </svg>
    </div>
+<script>
+  window.onload = function () {
+    document.body.classList.add('loaded_hiding');
+    window.setTimeout(function () {
+      document.body.classList.add('loaded');
+      document.body.classList.remove('loaded_hiding');
+    }, 500);
+  }
+</script>
 </body>
 </html>
