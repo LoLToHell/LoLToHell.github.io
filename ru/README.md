@@ -5,7 +5,7 @@
 <h3> Привет, мир. Я LoLToHell <img src="https://cultofthepartyparrot.com/flags/hd/russiaparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/guests/cursedparrot.gif" width="25" height="25"/></h3> 
 <h5> Обо мне: </h5>
 Java & Kotlin программист. Разработчик AOSP прошивок на базе ОС Андроид и ядер Linux, тестировщик ОС Андроид и приложений; в свободное время слушаю музыку или читаю книги, хотя обычно просто ставлю себя на зарядку за занавеской после тяжёлого дня и жду следующего... <br>
-- 🧑‍💻 Учу C++. <br>
+- 🧑‍💻 Изучаю язык C++. <br>
 <h5> Вы можете подписаться на меня или написать мне сообщение в одной из этих соц. сетей: </h5>
 <a href="https://t.me/loltohell"><img src="assets/social/tgram.png" width="25" height="25" alt="tgram"></a>
 <a href="https://instagram.com/grinvald.i"><img src="assets/social/insta-logo.svg.webp" width="25" height="25" alt="instagram"></a>
@@ -32,7 +32,7 @@ Java & Kotlin программист. Разработчик AOSP прошиво
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     Йа
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
-    Хачу
+    Хатщу
     <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="25" height="25"/>
     Питсу
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
