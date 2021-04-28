@@ -1,2 +1,2 @@
-Your IP address has get compromised.
+Your PC has get compromised.
 Vzlomochka
