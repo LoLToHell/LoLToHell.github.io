@@ -9,7 +9,7 @@ Java and Kotlin programmer. AOSP and Linux-kernel dev, Android firmware and appl
 - 🧑‍💻 Learning C++. <br>
 <h5> You can subscribe to me or write to me in one of the social networks: </h5>
 <a href="mailto:grinvaald@gmail.com" target="_blank" rel="noopener noreferrer"><img src="assets/social/gmail-logo.png" width="25" height="25" alt="Gmail"></a>
-<a href="https://instagram.com/grinvaald"><img src="aseets/social/insta-logo.svg.webp width="25" height="25" alt="instagram"></a>
+<a href="https://instagram.com/grinvaald"><img src="assets/social/insta-logo.svg.webp width="25" height="25" alt="instagram"></a>
 <a href="https://t.me/loltohell" class="icon brands telegram"><span class="label">Telegram</span></a>
 
 
