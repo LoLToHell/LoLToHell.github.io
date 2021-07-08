@@ -8,8 +8,8 @@
 Java and Kotlin programmer. AOSP and Linux-kernel dev, Android firmware and application tester; in my free time I listen to music or read books. <br>
 - 🧑‍💻 Learning C++. <br>
 <h5> You can subscribe to me or write to me in one of the social networks: </h5>
-<a href="mailto:grinvaald@gmail.com" target="_blank" rel="noopener noreferrer"><alt="Gmail"></a>
 <a href="https://instagram.com/grinvaald" class="icon brands fa-instagram"><span class="label">Instagram</span></a>
+<a href="https://t.me/loltohell" class="icon brands telegram"><span class="label">Telegram</span></a>
 
 
 If you want to have fun with programming... Never program! ©Me <br>
