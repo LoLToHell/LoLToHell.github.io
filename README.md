@@ -1,12 +1,3 @@
-### First tabs
-
-{% tabs log %}
-
-{% tab log php %}
-```php
-var_dump('hello');
-```
-{% endtab %}
 <html lang="en">
 <body>
   <p align="center"> <img src="assets/images/loltohell.png" alt="me!"/></p>
