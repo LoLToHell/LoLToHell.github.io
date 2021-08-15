@@ -1,5 +1,4 @@
 <html lang="en">
-   <body background="assets/images/background.jpg">
   <p align="center"> <img src="assets/images/loltohell.png" alt="me!"/></p>
   <p align="center"> <img src="assets/images/aboutme.png" alt="aboutme"/></p>
  <h3> Hello there, i'm LoLToHell <img src="https://cultofthepartyparrot.com/flags/hd/russiaparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/guests/cursedparrot.gif" width="25" height="25"/></h3> 
